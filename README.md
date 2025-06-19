@@ -5,6 +5,8 @@
 
 ## 📌 Project Summary
 Analyzed HR employee data to identify key factors influencing attrition. Found that lower satisfaction scores, lack of promotion, higher workload, and medium salary levels contributed most to employee churn. Provided insights to help reduce turnover and improve retention strategies.
+Data was already clean. Replaced NULL values with "Not Disclosed". Got insights from Pivot Tables. 
+
 
 
 # Problem Statement
