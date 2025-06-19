@@ -12,7 +12,7 @@ To identify the key factors influencing employee attrition in an organization an
 ---
 - **File name** = Top Salary.csv
 -  **Rows** = 15000 (Header included)
--  **Features:**
+-  **Column:**
     1. emp_id 		
     2. satisfaction_level
     3. performance_rating
@@ -26,7 +26,7 @@ To identify the key factors influencing employee attrition in an organization an
 
 ---
 
-#Key Findings:
+# Key Findings:
 
 **Satisfaction Level:**
 Employees who stayed had a higher average satisfaction score (6.6) compared to those who left (4.4).
